@@ -79,3 +79,9 @@ footer {
   margin: 10px;
   background-color: white;
 }
+.instructions{
+  color:#fff;
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: 0.5;
+}
